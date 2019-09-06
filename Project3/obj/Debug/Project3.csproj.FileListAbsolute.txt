@@ -1,0 +1,7 @@
+C:\Users\Dominic_D\source\repos\Project3\Project3\obj\Debug\Project3.csprojAssemblyReference.cache
+C:\Users\Dominic_D\source\repos\Project3\Project3\obj\Debug\Project3.csproj.CoreCompileInputs.cache
+C:\Users\Dominic_D\source\repos\Project3\Project3\bin\Debug\Project3.exe.config
+C:\Users\Dominic_D\source\repos\Project3\Project3\bin\Debug\Project3.exe
+C:\Users\Dominic_D\source\repos\Project3\Project3\bin\Debug\Project3.pdb
+C:\Users\Dominic_D\source\repos\Project3\Project3\obj\Debug\Project3.exe
+C:\Users\Dominic_D\source\repos\Project3\Project3\obj\Debug\Project3.pdb
